@@ -33,13 +33,13 @@ cd SubMerge
 2. Compile the Java program:
 
 ```bash
-javac app.java
+javac SubdomainCollector.java
 ```
 
 3. Run the tool:
 
 ```bash
-java app
+java SubdomainCollector
 ```
 
 ---
