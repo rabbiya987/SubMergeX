@@ -55,7 +55,7 @@ public class SubdomainCollector {
 
     private static void printHeader() {
         System.out.println("===============================================================");
-        System.out.println("                      SubMerge - Subdomain Collector");
+        System.out.println("                      SubMergeX - Subdomain Collector");
         System.out.println("===============================================================");
         System.out.println("Description:");
         System.out.println("SubMerge is a Linux-based Java tool that collects subdomains");
@@ -68,7 +68,7 @@ public class SubdomainCollector {
         System.out.println(" - Removes duplicate entries");
         System.out.println(" - Saves all unique subdomains to a text file");
         System.out.println("\nAuthor: Rabia Ishtiaq");
-        System.out.println("GitHub: https://github.com/yourusername/SubMerge");
+        System.out.println("GitHub: https://github.com/rabbiya987/SubMergeX");
         System.out.println("Date: 2025-08-21");
         System.out.println("===============================================================\n");
     }
