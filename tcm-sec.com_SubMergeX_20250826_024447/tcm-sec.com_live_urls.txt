@@ -1,0 +1,36 @@
+# Live URLs for tcm-sec.com
+# Generated on: Tue Aug 26 02:46:22 EDT 2025
+# Format: HTTP and HTTPS variants
+
+https://academy.tcm-sec.com
+http://academy.tcm-sec.com
+https://autodiscover.tcm-sec.com
+http://autodiscover.tcm-sec.com
+https://certifications.tcm-sec.com
+http://certifications.tcm-sec.com
+https://certified.tcm-sec.com
+http://certified.tcm-sec.com
+https://cpanel.tcm-sec.com
+http://cpanel.tcm-sec.com
+https://cpcalendars.tcm-sec.com
+http://cpcalendars.tcm-sec.com
+https://cpcontacts.tcm-sec.com
+http://cpcontacts.tcm-sec.com
+https://dev.tcm-sec.com
+http://dev.tcm-sec.com
+https://mail.tcm-sec.com
+http://mail.tcm-sec.com
+https://merch.tcm-sec.com
+http://merch.tcm-sec.com
+https://tcm-sec.com
+http://tcm-sec.com
+https://webdisk.tcm-sec.com
+http://webdisk.tcm-sec.com
+https://webmail.tcm-sec.com
+http://webmail.tcm-sec.com
+https://www.certifications.tcm-sec.com
+http://www.certifications.tcm-sec.com
+https://www.dev.tcm-sec.com
+http://www.dev.tcm-sec.com
+https://www.tcm-sec.com
+http://www.tcm-sec.com

@@ -1,0 +1,39 @@
+# All Subdomains for tcm-sec.com
+# Generated on: Tue Aug 26 02:44:47 EDT 2025
+# Total subdomains found: 33
+# Tool: SubMergeX v2.1
+# Status: Initial enumeration complete
+
+academy.tcm-sec.com
+autoconfig.server.tcm-sec.com
+autodiscover.server.tcm-sec.com
+autodiscover.tcm-sec.com
+cert-dev.tcm-sec.com
+certifications.tcm-sec.com
+certified.tcm-sec.com
+cpanel.server.tcm-sec.com
+cpanel.tcm-sec.com
+cpcalendars.server.tcm-sec.com
+cpcalendars.tcm-sec.com
+cpcontacts.server.tcm-sec.com
+cpcontacts.tcm-sec.com
+dev.tcm-sec.com
+ipv6.server.tcm-sec.com
+mail.server.tcm-sec.com
+mail.tcm-sec.com
+merch.tcm-sec.com
+server.tcm-sec.com
+staging.tcm-sec.com
+tcm-sec.com
+webdisk.server.tcm-sec.com
+webdisk.tcm-sec.com
+webmail.server.tcm-sec.com
+webmail.tcm-sec.com
+whm.server.tcm-sec.com
+www.academy.tcm-sec.com
+www.cert-dev.tcm-sec.com
+www.certifications.tcm-sec.com
+www.dev.tcm-sec.com
+www.server.tcm-sec.com
+www.staging.tcm-sec.com
+www.tcm-sec.com
